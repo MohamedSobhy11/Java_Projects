@@ -1,0 +1,4 @@
+mody,12345
+ali,12
+ahmed,6000
+mariam,125
